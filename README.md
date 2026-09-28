@@ -4,7 +4,7 @@ A handwritten digit recognition system featuring a custom Neural Network built f
 
 ## 🚀 Features
 - **Custom Neural Network Engine:** Built entirely from scratch in Python (Matrix operations, Activation functions, Forward Propagation).
-- **Interactive C# GUI:** Draw digits manually on a $280 \times 280$ canvas with smooth brush controls.
+- **Interactive C# GUI:** Draw digits manually on a 280x280 canvas with smooth brush controls.
 - **IPC Integration:** Real-time process handling between C# GUI and the Python AI backend.
 - **MNIST Dataset:** Trained on standard handwritten digit datasets.
 
@@ -17,4 +17,5 @@ A handwritten digit recognition system featuring a custom Neural Network built f
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/DigitRecognizer.git](https://github.com/your-username/DigitRecognizer.git)
+   git clone [https://github.com/IEgeq/DigitRecognizer.git](https://github.com/IEgeq/DigitRecognizer.git)
+   ```
