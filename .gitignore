@@ -1,0 +1,14 @@
+# Visual Studio geçici dosyaları
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+input.png
+
+# Derleme/Model çıktıları (İsteğe bağlı)
+*.exe
